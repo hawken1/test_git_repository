@@ -1,2 +1,2 @@
 # test_git_repository
-testing a commit
+testing a NEW commit
